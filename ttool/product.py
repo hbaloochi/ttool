@@ -4,7 +4,7 @@ import numpy as np
 from olist.data import Olist
 from olist.order import Order
 
-
+###test
 class Product:
     def __init__(self):
         # Import data only once
@@ -142,4 +142,3 @@ class Product:
         - ...
         '''
         pass  # YOUR CODE HERE
-
